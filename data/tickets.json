@@ -1,0 +1,22 @@
+[
+  {
+    "ticket_id": "TKT-1001",
+    "subject": "Payment deducted but order is still pending",
+    "text": "My payment was deducted from my bank account, but the order still shows pending. Please check this urgently."
+  },
+  {
+    "ticket_id": "TKT-1002",
+    "subject": "Package delivery is late",
+    "text": "My package was supposed to arrive two days ago and the delivery status has not changed."
+  },
+  {
+    "ticket_id": "TKT-1003",
+    "subject": "I cannot log into my account",
+    "text": "I forgot my password and the OTP is not arriving. I cannot sign in to my account."
+  },
+  {
+    "ticket_id": "TKT-1004",
+    "subject": "Wrong item received",
+    "text": "The product delivered to me is different from the item I ordered."
+  }
+]
