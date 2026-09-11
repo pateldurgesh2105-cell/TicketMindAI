@@ -1,0 +1,11 @@
+TITLE: Payment pending after successful debit
+CONTENT: If money was deducted but an order remains pending, first verify the transaction status and order payment state. Do not ask the customer to make another payment while the first transaction is being investigated. Escalate confirmed duplicate or failed settlement cases to the payments team.
+
+TITLE: Delivery delay
+CONTENT: For delayed deliveries, verify the latest shipment scan and expected delivery date. If the shipment has not moved beyond the normal carrier window, create a delivery investigation ticket. Provide the customer with the latest verified status.
+
+TITLE: Account login and OTP
+CONTENT: For login problems, confirm the customer can access the registered contact method. For missing OTPs, ask the customer to retry after checking network and message blocking settings. Repeated OTP failures should be routed to account support.
+
+TITLE: Wrong or incorrect product
+CONTENT: When a customer receives a different product from the order, verify the order item and shipment record. If the mismatch is confirmed, initiate the applicable replacement or return workflow and record the incorrect item evidence.
